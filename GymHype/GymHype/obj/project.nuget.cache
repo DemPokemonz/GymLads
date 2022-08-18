@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oc5vfrYoPblmEPv7NFHbeYZp4qo5sVwTzcGhkT9pV+deNsum52bTV/hdbBrvF2ZRrfIoLZlgA1sQAJdCCv4nKA==",
+  "success": true,
+  "projectFilePath": "/Users/thomasframpton/Documents/GitHub/GymLads/GymHype/GymHype/GymHype.csproj",
+  "expectedPackageFiles": [
+    "/Users/thomasframpton/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/thomasframpton/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
