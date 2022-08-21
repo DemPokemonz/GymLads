@@ -1,3 +1,24 @@
 ﻿<Properties StartupConfiguration="{B1E25BAE-9C68-4E02-B2A8-E0CCD5799323}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GymHype" expanded="True" selected="True">
+            <Node name="GymHype" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GymHype PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
 </Properties>
